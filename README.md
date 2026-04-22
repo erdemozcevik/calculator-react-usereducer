@@ -21,3 +21,4 @@ npm run dev
 ```
 
 ## 📸 Preview
+![App Screenshot](preview.png)
